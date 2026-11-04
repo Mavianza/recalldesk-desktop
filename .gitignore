@@ -1,0 +1,4 @@
+build/
+*.rdb
+*.rdb.bak
+*.rdb.lock

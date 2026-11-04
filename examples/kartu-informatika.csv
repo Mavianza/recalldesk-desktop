@@ -1,0 +1,7 @@
+tag,front,back
+SQL,Apa manfaat parameter binding pada query SQL?,Memisahkan nilai masukan dari struktur query agar nilai diperlakukan sebagai data.
+SQL,Apa fungsi rollback pada transaksi?,Membatalkan perubahan yang belum committed pada transaksi.
+Algoritma,Struktur data apa yang digunakan oleh BFS?,Queue FIFO untuk memproses simpul per lapisan.
+Algoritma,Apa kompleksitas pencarian biner pada array terurut?,O(log n) per pencarian.
+Java,Apa arti equals pada String?,Membandingkan isi teks dua String.
+Java,Mengapa IO panjang dipindah dari EDT?,Agar event dan repaint Swing tetap responsif.
